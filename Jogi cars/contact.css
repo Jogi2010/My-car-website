@@ -1,0 +1,42 @@
+body {
+	font-size: x-large;
+	color:white;
+	text-align: center;
+	background-image: url(dealer4.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	background-color: #333;
+	color: crimson;
+}
+b {
+	color: limegreen;
+}
+#p {
+	text-align: center;
+}
+.navbar a {
+    float:right;
+    color: black;
+    text-align: center;
+    justify-content: space-between;
+}
+.navbar a:hover{
+    color: #333;
+    background-color: #f2f2f2;
+    justify-content: space-between;
+    cursor: pointer;
+	}
+	.navbar{
+		background-color: beige;
+		text-align: center;
+		justify-content: space-between;
+	}
+	.navbar a {
+		float:center;
+		color: beige;
+		padding: 14px 20px;
+		text-decoration: none;
+		font-size: 15px;
+	}

@@ -1,0 +1,53 @@
+body {
+	text-align: center;
+	background-color: lightskyblue;
+	font-size: x-large;
+}
+.img{
+    text-align: left;
+    justify-content: left;
+    justify-items: left;
+}
+h1 {
+	color: crimson;
+	text-align: center;
+	background-color: #333;
+}
+#sign-up {
+	background-color: lightgreen;
+	padding: 7px 8px;
+	margin: 25px;
+	border-radius: 20px;
+	cursor: pointer;
+
+}
+.navbar a {
+    float:right;
+    color: black;
+    text-align: center;
+    justify-content: space-between;
+}
+.navbar a:hover{
+    color: #333;
+    background-color: #f2f2f2;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.navbar{
+    background-color: beige;
+    text-align: center;
+    justify-content: space-between;
+}
+.navbar a {
+    float:center;
+    color: beige;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: 15px;
+}
+body{background-image: url('dealer.jpg'); /* Replace with your dealership interior image URL */
+    background-size: cover; /* Makes the background cover the entire screen */
+    background-position: center center; /* Centers the image */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    font-family: Arial, sans-serif;/* Optional: Set a default font */ 
+  }
